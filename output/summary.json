@@ -1,0 +1,440 @@
+{
+    "total_avis": 48,
+    "positifs": 19,
+    "negatifs": 9,
+    "neutres": 20,
+    "details": [
+        {
+            "reviews_id": "REV001",
+            "reviews_text": "excellent produit, je le recommande vivement a tout le monde !",
+            "sentiment": {
+                "polarity": 0.325,
+                "subjectivity": 0.3333333333333333,
+                "label": "positif"
+            }
+        },
+        {
+            "reviews_id": "REV002",
+            "reviews_text": "le service client etait absolument horrible. j'attends toujours une reponse.",
+            "sentiment": {
+                "polarity": -1.0,
+                "subjectivity": 1.0,
+                "label": "negatif"
+            }
+        },
+        {
+            "reviews_id": "REV003",
+            "reviews_text": "la livraison a ete rapide, mais l'emballage etait endommage. c'est dommage.",
+            "sentiment": {
+                "polarity": 0.024999999999999994,
+                "subjectivity": 0.45,
+                "label": "neutre"
+            }
+        },
+        {
+            "reviews_id": "REV004",
+            "reviews_text": "j'adore les nouvelles fonctionnalites ! c'est revolutionnaire.",
+            "sentiment": {
+                "polarity": 0.3416666666666666,
+                "subjectivity": 0.48333333333333334,
+                "label": "positif"
+            }
+        },
+        {
+            "reviews_id": "REV005",
+            "reviews_text": "franchement, c'est juste ok. rien d'extraordinaire.",
+            "sentiment": {
+                "polarity": 0.08499999999999999,
+                "subjectivity": 0.5,
+                "label": "neutre"
+            }
+        },
+        {
+            "reviews_id": "REV007",
+            "reviews_text": ":face_with_rolling_eyes: trop cher pour ce que c'est. je suis decu.",
+            "sentiment": {
+                "polarity": -0.105,
+                "subjectivity": 0.2,
+                "label": "negatif"
+            }
+        },
+        {
+            "reviews_id": "REV008",
+            "reviews_text": "une belle surprise, facile a utiliser. cinq etoiles !",
+            "sentiment": {
+                "polarity": 0.5625,
+                "subjectivity": 0.5666666666666668,
+                "label": "positif"
+            }
+        },
+        {
+            "reviews_id": "REV009",
+            "reviews_text": "le manuel d'instruction est mal traduit et incomprehensible.",
+            "sentiment": {
+                "polarity": -0.55,
+                "subjectivity": 0.6499999999999999,
+                "label": "negatif"
+            }
+        },
+        {
+            "reviews_id": "REV010",
+            "reviews_text": "fonctionne comme prevu. simple et efficace.",
+            "sentiment": {
+                "polarity": 0.25,
+                "subjectivity": 0.25,
+                "label": "positif"
+            }
+        },
+        {
+            "reviews_id": "REV011",
+            "reviews_text": "je l'ai achete en solde, bonne affaire.",
+            "sentiment": {
+                "polarity": 0.7,
+                "subjectivity": 0.7,
+                "label": "positif"
+            }
+        },
+        {
+            "reviews_id": "REV012",
+            "reviews_text": "c'est la pire experience que j'ai jamais eue. inutilisable.",
+            "sentiment": {
+                "polarity": -0.4,
+                "subjectivity": 0.8,
+                "label": "negatif"
+            }
+        },
+        {
+            "reviews_id": "REV013",
+            "reviews_text": "un ajout fantastique a ma collection. parfait.",
+            "sentiment": {
+                "polarity": 0.9,
+                "subjectivity": 0.9,
+                "label": "positif"
+            }
+        },
+        {
+            "reviews_id": "REV014",
+            "reviews_text": "ca fait le job, sans plus.",
+            "sentiment": {
+                "polarity": -0.075,
+                "subjectivity": 0.1,
+                "label": "neutre"
+            }
+        },
+        {
+            "reviews_id": "REV015",
+            "reviews_text": "probleme de connexion recurrent, c'est frustrant.",
+            "sentiment": {
+                "polarity": 0.0,
+                "subjectivity": 0.0,
+                "label": "neutre"
+            }
+        },
+        {
+            "reviews_id": "REV016",
+            "reviews_text": "incroyable qualite pour le prix. :star::star::star::star::star:",
+            "sentiment": {
+                "polarity": 0.6,
+                "subjectivity": 0.6,
+                "label": "positif"
+            }
+        },
+        {
+            "reviews_id": "REV017",
+            "reviews_text": "je ne sais pas trop. il est arrive en retard. (url: ",
+            "sentiment": {
+                "polarity": 0.125,
+                "subjectivity": 0.7,
+                "label": "positif"
+            }
+        },
+        {
+            "reviews_id": "REV018",
+            "reviews_text": "je n'ai recu que la moitie de ma commande. scandaleux.",
+            "sentiment": {
+                "polarity": -0.8,
+                "subjectivity": 1.0,
+                "label": "negatif"
+            }
+        },
+        {
+            "reviews_id": "REV019",
+            "reviews_text": "mon fils adore, donc je suis content.",
+            "sentiment": {
+                "polarity": 0.575,
+                "subjectivity": 0.55,
+                "label": "positif"
+            }
+        },
+        {
+            "reviews_id": "REV020",
+            "reviews_text": "tres decu par la durabilite. il a casse apres deux jours.",
+            "sentiment": {
+                "polarity": 0.01,
+                "subjectivity": 0.65,
+                "label": "neutre"
+            }
+        },
+        {
+            "reviews_id": "REV021",
+            "reviews_text": "absolument genial !",
+            "sentiment": {
+                "polarity": 1.0,
+                "subjectivity": 1.0,
+                "label": "positif"
+            }
+        },
+        {
+            "reviews_id": "REV022",
+            "reviews_text": "j'hesite a le retourner. pas sur de mon achat.",
+            "sentiment": {
+                "polarity": 0.0,
+                "subjectivity": 0.0,
+                "label": "neutre"
+            }
+        },
+        {
+            "reviews_id": "REV023",
+            "reviews_text": "le design est elegant et moderne.",
+            "sentiment": {
+                "polarity": 0.44999999999999996,
+                "subjectivity": 0.39999999999999997,
+                "label": "positif"
+            }
+        },
+        {
+            "reviews_id": "REV024",
+            "reviews_text": "les etapes [nombre] sont confuses.",
+            "sentiment": {
+                "polarity": -0.4,
+                "subjectivity": 0.3,
+                "label": "negatif"
+            }
+        },
+        {
+            "reviews_id": "REV025",
+            "reviews_text": "un produit moyen. ni bon ni mauvais.",
+            "sentiment": {
+                "polarity": -0.04833333333333334,
+                "subjectivity": 0.5333333333333333,
+                "label": "neutre"
+            }
+        },
+        {
+            "reviews_id": "REV026",
+            "reviews_text": "je n'aurais jamais cru que ce serait si simple. merci !",
+            "sentiment": {
+                "polarity": 0.24166666666666667,
+                "subjectivity": 0.35000000000000003,
+                "label": "positif"
+            }
+        },
+        {
+            "reviews_id": "REV027",
+            "reviews_text": "le vendeur n'a jamais repondu a mes messages.",
+            "sentiment": {
+                "polarity": 0.0,
+                "subjectivity": 0.0,
+                "label": "neutre"
+            }
+        },
+        {
+            "reviews_id": "REV028",
+            "reviews_text": "vraiment bien.",
+            "sentiment": {
+                "polarity": 0.0,
+                "subjectivity": 0.4,
+                "label": "neutre"
+            }
+        },
+        {
+            "reviews_id": "REV029",
+            "reviews_text": "un peu lourd.",
+            "sentiment": {
+                "polarity": -0.037500000000000006,
+                "subjectivity": 0.26249999999999996,
+                "label": "neutre"
+            }
+        },
+        {
+            "reviews_id": "REV030",
+            "reviews_text": "tres facile a configurer, meme pour un debutant.",
+            "sentiment": {
+                "polarity": 0.23,
+                "subjectivity": 0.5333333333333333,
+                "label": "positif"
+            }
+        },
+        {
+            "reviews_id": "REV031",
+            "reviews_text": "je n'ai pas eu le temps de l'utiliser.",
+            "sentiment": {
+                "polarity": 0.0,
+                "subjectivity": 0.0,
+                "label": "neutre"
+            }
+        },
+        {
+            "reviews_id": "REV032",
+            "reviews_text": "la couleur est belle, mais la taille ne correspond pas.",
+            "sentiment": {
+                "polarity": 0.8,
+                "subjectivity": 0.8,
+                "label": "positif"
+            }
+        },
+        {
+            "reviews_id": "REV033",
+            "reviews_text": "le meilleur achat de l'annee. (achete pour [nombre].[nombre])",
+            "sentiment": {
+                "polarity": 0.53,
+                "subjectivity": 0.5,
+                "label": "positif"
+            }
+        },
+        {
+            "reviews_id": "REV035",
+            "reviews_text": "je n'ai rien de mal a dire sur ce produit.",
+            "sentiment": {
+                "polarity": -0.7,
+                "subjectivity": 0.7,
+                "label": "negatif"
+            }
+        },
+        {
+            "reviews_id": "REV036",
+            "reviews_text": "j'aurais prefere une autre option.",
+            "sentiment": {
+                "polarity": -0.1,
+                "subjectivity": 0.0,
+                "label": "neutre"
+            }
+        },
+        {
+            "reviews_id": "REV037",
+            "reviews_text": "trop de bugs dans la derniere mise a jour.",
+            "sentiment": {
+                "polarity": -0.27,
+                "subjectivity": 0.44999999999999996,
+                "label": "negatif"
+            }
+        },
+        {
+            "reviews_id": "REV038",
+            "reviews_text": "fonctionne parfaitement sur mon ancien systeme.",
+            "sentiment": {
+                "polarity": 0.2075,
+                "subjectivity": 0.30000000000000004,
+                "label": "positif"
+            }
+        },
+        {
+            "reviews_id": "REV039",
+            "reviews_text": "rien a signaler.",
+            "sentiment": {
+                "polarity": 0.0,
+                "subjectivity": 0.0,
+                "label": "neutre"
+            }
+        },
+        {
+            "reviews_id": "REV040",
+            "reviews_text": "je suis plutot satisfait. ([nombre]/[nombre])",
+            "sentiment": {
+                "polarity": 0.3,
+                "subjectivity": 0.6,
+                "label": "positif"
+            }
+        },
+        {
+            "reviews_id": "REV041",
+            "reviews_text": "ce n'est pas ce que j'avais commande. erreur de livraison.",
+            "sentiment": {
+                "polarity": 0.0,
+                "subjectivity": 0.0,
+                "label": "neutre"
+            }
+        },
+        {
+            "reviews_id": "REV042",
+            "reviews_text": "c'est le top du top. je vais en acheter un autre.",
+            "sentiment": {
+                "polarity": -0.1,
+                "subjectivity": 0.0,
+                "label": "neutre"
+            }
+        },
+        {
+            "reviews_id": "REV043",
+            "reviews_text": "je pense qu'il y a un potentiel, mais pas pour l'instant.",
+            "sentiment": {
+                "polarity": 0.1,
+                "subjectivity": 0.15,
+                "label": "neutre"
+            }
+        },
+        {
+            "reviews_id": "REV044",
+            "reviews_text": "la qualite n'est pas au rendez-vous.",
+            "sentiment": {
+                "polarity": 0.0,
+                "subjectivity": 0.0,
+                "label": "neutre"
+            }
+        },
+        {
+            "reviews_id": "REV045",
+            "reviews_text": "j'ai eu quelques difficultes au debut, mais ca va maintenant.",
+            "sentiment": {
+                "polarity": 0.0,
+                "subjectivity": 0.0,
+                "label": "neutre"
+            }
+        },
+        {
+            "reviews_id": "REV046",
+            "reviews_text": "un cadeau qui a fait plaisir ! (code produit: xyz-[nombre])",
+            "sentiment": {
+                "polarity": 0.31875,
+                "subjectivity": 0.0,
+                "label": "positif"
+            }
+        },
+        {
+            "reviews_id": "REV047",
+            "reviews_text": ":unamused_face:",
+            "sentiment": {
+                "polarity": 0.0,
+                "subjectivity": 0.0,
+                "label": "neutre"
+            }
+        },
+        {
+            "reviews_id": "REV048",
+            "reviews_text": "service a la clientele mediocre, impossible de parler a quelqu'un.",
+            "sentiment": {
+                "polarity": -0.45,
+                "subjectivity": 0.5,
+                "label": "negatif"
+            }
+        },
+        {
+            "reviews_id": "REV049",
+            "reviews_text": "je ne suis ni ravi ni decu.  \\_()_/ ",
+            "sentiment": {
+                "polarity": 0.0,
+                "subjectivity": 0.0,
+                "label": "neutre"
+            }
+        },
+        {
+            "reviews_id": "REV050",
+            "reviews_text": "tres tres satisfait ! merci.",
+            "sentiment": {
+                "polarity": 0.525,
+                "subjectivity": 0.6,
+                "label": "positif"
+            }
+        }
+    ]
+}

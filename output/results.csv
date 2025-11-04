@@ -1,0 +1,49 @@
+reviews_id,reviews_text,sentiment,sentiment_final
+REV001,"excellent produit, je le recommande vivement a tout le monde !","{'polarity': 0.325, 'subjectivity': 0.3333333333333333, 'label': 'positif'}",positif
+REV002,le service client etait absolument horrible. j'attends toujours une reponse.,"{'polarity': -1.0, 'subjectivity': 1.0, 'label': 'negatif'}",negatif
+REV003,"la livraison a ete rapide, mais l'emballage etait endommage. c'est dommage.","{'polarity': 0.024999999999999994, 'subjectivity': 0.45, 'label': 'neutre'}",neutre
+REV004,j'adore les nouvelles fonctionnalites ! c'est revolutionnaire.,"{'polarity': 0.3416666666666666, 'subjectivity': 0.48333333333333334, 'label': 'positif'}",positif
+REV005,"franchement, c'est juste ok. rien d'extraordinaire.","{'polarity': 0.08499999999999999, 'subjectivity': 0.5, 'label': 'neutre'}",neutre
+REV007,:face_with_rolling_eyes: trop cher pour ce que c'est. je suis decu.,"{'polarity': -0.105, 'subjectivity': 0.2, 'label': 'negatif'}",negatif
+REV008,"une belle surprise, facile a utiliser. cinq etoiles !","{'polarity': 0.5625, 'subjectivity': 0.5666666666666668, 'label': 'positif'}",positif
+REV009,le manuel d'instruction est mal traduit et incomprehensible.,"{'polarity': -0.55, 'subjectivity': 0.6499999999999999, 'label': 'negatif'}",negatif
+REV010,fonctionne comme prevu. simple et efficace.,"{'polarity': 0.25, 'subjectivity': 0.25, 'label': 'positif'}",positif
+REV011,"je l'ai achete en solde, bonne affaire.","{'polarity': 0.7, 'subjectivity': 0.7, 'label': 'positif'}",positif
+REV012,c'est la pire experience que j'ai jamais eue. inutilisable.,"{'polarity': -0.4, 'subjectivity': 0.8, 'label': 'negatif'}",negatif
+REV013,un ajout fantastique a ma collection. parfait.,"{'polarity': 0.9, 'subjectivity': 0.9, 'label': 'positif'}",positif
+REV014,"ca fait le job, sans plus.","{'polarity': -0.075, 'subjectivity': 0.1, 'label': 'neutre'}",neutre
+REV015,"probleme de connexion recurrent, c'est frustrant.","{'polarity': 0.0, 'subjectivity': 0.0, 'label': 'neutre'}",neutre
+REV016,incroyable qualite pour le prix. :star::star::star::star::star:,"{'polarity': 0.6, 'subjectivity': 0.6, 'label': 'positif'}",positif
+REV017,je ne sais pas trop. il est arrive en retard. (url: ,"{'polarity': 0.125, 'subjectivity': 0.7, 'label': 'positif'}",positif
+REV018,je n'ai recu que la moitie de ma commande. scandaleux.,"{'polarity': -0.8, 'subjectivity': 1.0, 'label': 'negatif'}",negatif
+REV019,"mon fils adore, donc je suis content.","{'polarity': 0.575, 'subjectivity': 0.55, 'label': 'positif'}",positif
+REV020,tres decu par la durabilite. il a casse apres deux jours.,"{'polarity': 0.01, 'subjectivity': 0.65, 'label': 'neutre'}",neutre
+REV021,absolument genial !,"{'polarity': 1.0, 'subjectivity': 1.0, 'label': 'positif'}",positif
+REV022,j'hesite a le retourner. pas sur de mon achat.,"{'polarity': 0.0, 'subjectivity': 0.0, 'label': 'neutre'}",neutre
+REV023,le design est elegant et moderne.,"{'polarity': 0.44999999999999996, 'subjectivity': 0.39999999999999997, 'label': 'positif'}",positif
+REV024,les etapes [nombre] sont confuses.,"{'polarity': -0.4, 'subjectivity': 0.3, 'label': 'negatif'}",negatif
+REV025,un produit moyen. ni bon ni mauvais.,"{'polarity': -0.04833333333333334, 'subjectivity': 0.5333333333333333, 'label': 'neutre'}",neutre
+REV026,je n'aurais jamais cru que ce serait si simple. merci !,"{'polarity': 0.24166666666666667, 'subjectivity': 0.35000000000000003, 'label': 'positif'}",positif
+REV027,le vendeur n'a jamais repondu a mes messages.,"{'polarity': 0.0, 'subjectivity': 0.0, 'label': 'neutre'}",neutre
+REV028,vraiment bien.,"{'polarity': 0.0, 'subjectivity': 0.4, 'label': 'neutre'}",neutre
+REV029,un peu lourd.,"{'polarity': -0.037500000000000006, 'subjectivity': 0.26249999999999996, 'label': 'neutre'}",neutre
+REV030,"tres facile a configurer, meme pour un debutant.","{'polarity': 0.23, 'subjectivity': 0.5333333333333333, 'label': 'positif'}",positif
+REV031,je n'ai pas eu le temps de l'utiliser.,"{'polarity': 0.0, 'subjectivity': 0.0, 'label': 'neutre'}",neutre
+REV032,"la couleur est belle, mais la taille ne correspond pas.","{'polarity': 0.8, 'subjectivity': 0.8, 'label': 'positif'}",positif
+REV033,le meilleur achat de l'annee. (achete pour [nombre].[nombre]),"{'polarity': 0.53, 'subjectivity': 0.5, 'label': 'positif'}",positif
+REV035,je n'ai rien de mal a dire sur ce produit.,"{'polarity': -0.7, 'subjectivity': 0.7, 'label': 'negatif'}",negatif
+REV036,j'aurais prefere une autre option.,"{'polarity': -0.1, 'subjectivity': 0.0, 'label': 'neutre'}",neutre
+REV037,trop de bugs dans la derniere mise a jour.,"{'polarity': -0.27, 'subjectivity': 0.44999999999999996, 'label': 'negatif'}",negatif
+REV038,fonctionne parfaitement sur mon ancien systeme.,"{'polarity': 0.2075, 'subjectivity': 0.30000000000000004, 'label': 'positif'}",positif
+REV039,rien a signaler.,"{'polarity': 0.0, 'subjectivity': 0.0, 'label': 'neutre'}",neutre
+REV040,je suis plutot satisfait. ([nombre]/[nombre]),"{'polarity': 0.3, 'subjectivity': 0.6, 'label': 'positif'}",positif
+REV041,ce n'est pas ce que j'avais commande. erreur de livraison.,"{'polarity': 0.0, 'subjectivity': 0.0, 'label': 'neutre'}",neutre
+REV042,c'est le top du top. je vais en acheter un autre.,"{'polarity': -0.1, 'subjectivity': 0.0, 'label': 'neutre'}",neutre
+REV043,"je pense qu'il y a un potentiel, mais pas pour l'instant.","{'polarity': 0.1, 'subjectivity': 0.15, 'label': 'neutre'}",neutre
+REV044,la qualite n'est pas au rendez-vous.,"{'polarity': 0.0, 'subjectivity': 0.0, 'label': 'neutre'}",neutre
+REV045,"j'ai eu quelques difficultes au debut, mais ca va maintenant.","{'polarity': 0.0, 'subjectivity': 0.0, 'label': 'neutre'}",neutre
+REV046,un cadeau qui a fait plaisir ! (code produit: xyz-[nombre]),"{'polarity': 0.31875, 'subjectivity': 0.0, 'label': 'positif'}",positif
+REV047,:unamused_face:,"{'polarity': 0.0, 'subjectivity': 0.0, 'label': 'neutre'}",neutre
+REV048,"service a la clientele mediocre, impossible de parler a quelqu'un.","{'polarity': -0.45, 'subjectivity': 0.5, 'label': 'negatif'}",negatif
+REV049,je ne suis ni ravi ni decu.  \_()_/ ,"{'polarity': 0.0, 'subjectivity': 0.0, 'label': 'neutre'}",neutre
+REV050,tres tres satisfait ! merci.,"{'polarity': 0.525, 'subjectivity': 0.6, 'label': 'positif'}",positif
