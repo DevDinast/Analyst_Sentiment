@@ -4,3 +4,4 @@ nltk
 textblob
 vaderSentiment
 emoji
+textblob_fr 
